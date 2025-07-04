@@ -1,0 +1,7 @@
+# Core dependencies
+pandas
+numpy
+seaborn
+
+# Local package setup
+-e .
